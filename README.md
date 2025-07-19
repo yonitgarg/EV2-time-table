@@ -72,8 +72,6 @@
             <th>-</th>
         </tr>
     </table> <br>
-
-   
     <table border="3" style="width: 80%; font-size: 20px;" >
         <tr style="background-color: darkgrey;"> 
             <th colspan="3">SUBJECT INITIALS, CODES, NAMES</th>
